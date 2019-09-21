@@ -1,0 +1,5 @@
+Team name: kevin
+"this is a question" was answered in 4 seconds
+"What's my name" was answered in 2 seconds
+"Why" was answered in 2 seconds
+The final time was 8.933931112289429
